@@ -1,0 +1,1001 @@
+house_id,area_sqft,price,condition,location
+H001,,,Needs Repair,Rural
+H002,,,Needs Repair,Unknown
+H003,,,,Urban
+H004,,,Needs Repair,Rural
+H005,,,Good,Urban
+H006,,,New,Unknown
+H007,,,,Rural
+H008,4013,16866639,New,Semi-Urban
+H009,,,,Unknown
+H010,,,New,Unknown
+H011,,,,Semi-Urban
+H012,3698,25083534,,Rural
+H013,2324,14910784,Good,
+H014,,,Needs Repair,Rural
+H015,,,New,Unknown
+H016,,,,Unknown
+H017,4899,23309442,New,
+H018,,,Needs Repair,Semi-Urban
+H019,4197,8717169,,
+H020,2635,7601975,Needs Repair,Urban
+H021,,,,
+H022,,,,
+H023,,,,Semi-Urban
+H024,4732,17323852,,Unknown
+H025,3024,23058000,Good,Rural
+H026,,,,Rural
+H027,3784,17448024,,Rural
+H028,3038,10162110,,Urban
+H029,4910,13777460,,Semi-Urban
+H030,,,,Rural
+H031,,,Needs Repair,
+H032,4852,31178952,,
+H033,,,New,
+H034,3475,21875125,Good,Rural
+H035,2326,9266784,Needs Repair,Unknown
+H036,,,Good,Semi-Urban
+H037,,,Needs Repair,Unknown
+H038,,,Good,Rural
+H039,2946,20524782,New,Rural
+H040,,,,
+H041,,,Good,Rural
+H042,,,Good,Rural
+H043,,,,Urban
+H044,,,,
+H045,,,,
+H046,2798,12073370,New,Rural
+H047,,,Needs Repair,Urban
+H048,,,,Urban
+H049,,,Good,Unknown
+H050,,,,Urban
+H051,,,Needs Repair,Urban
+H052,,,,Rural
+H053,,,,Unknown
+H054,,,Needs Repair,
+H055,,,,Rural
+H056,1640,7985160,Needs Repair,
+H057,1042,4558750,Good,Unknown
+H058,2630,17210720,Good,Semi-Urban
+H059,,,,Urban
+H060,1410,3355800,Good,
+H061,3752,16096080,,Semi-Urban
+H062,794,1815084,,
+H063,,,,Unknown
+H064,,,New,
+H065,,,Good,Unknown
+H066,,,,Unknown
+H067,,,New,
+H068,,,New,Urban
+H069,,,Needs Repair,Urban
+H070,3199,10857406,Good,
+H071,,,,
+H072,1610,7121030,New,Rural
+H073,,,,
+H074,1892,10050304,Good,Rural
+H075,,,Needs Repair,Semi-Urban
+H076,4114,11910030,New,Urban
+H077,,,Needs Repair,Semi-Urban
+H078,622,3852046,,Semi-Urban
+H079,,,Good,Rural
+H080,,,New,
+H081,3344,9614000,New,
+H082,,,New,Unknown
+H083,3846,22049118,Good,Semi-Urban
+H084,,,,Semi-Urban
+H085,,,Needs Repair,
+H086,,,Good,Urban
+H087,4961,19774546,Needs Repair,Semi-Urban
+H088,1566,10197792,New,Unknown
+H089,,,Needs Repair,Urban
+H090,,,,Rural
+H091,1278,2559834,Needs Repair,Urban
+H092,3105,14065650,New,Unknown
+H093,,,Good,Urban
+H094,3465,18340245,,Urban
+H095,715,2962960,Needs Repair,
+H096,1743,7048692,Needs Repair,Urban
+H097,,,,Urban
+H098,,,,Rural
+H099,,,Good,Urban
+H100,,,New,Unknown
+H101,2721,15664797,Needs Repair,
+H102,,,,Semi-Urban
+H103,4685,14537555,,Unknown
+H104,,,,Urban
+H105,,,,Unknown
+H106,2205,15199065,,Unknown
+H107,,,Good,
+H108,691,1695023,Needs Repair,Unknown
+H109,,,Needs Repair,Rural
+H110,,,Good,Unknown
+H111,554,3388818,New,Semi-Urban
+H112,,,,
+H113,4061,24865503,Good,Unknown
+H114,,,,Unknown
+H115,1550,6522400,,Unknown
+H116,,,Good,Semi-Urban
+H117,,,,Unknown
+H118,1742,9281376,,Semi-Urban
+H119,,,,Semi-Urban
+H120,,,Needs Repair,Unknown
+H121,3402,16969176,,
+H122,,,,Semi-Urban
+H123,,,Good,Urban
+H124,,,Needs Repair,
+H125,,,,
+H126,3116,17627212,New,Semi-Urban
+H127,,,New,Unknown
+H128,,,,Urban
+H129,4735,36265365,Needs Repair,Urban
+H130,,,Needs Repair,
+H131,,,,Semi-Urban
+H132,2786,21917462,Good,Unknown
+H133,,,Needs Repair,Semi-Urban
+H134,,,,Semi-Urban
+H135,,,,Semi-Urban
+H136,1345,8959045,Good,Unknown
+H137,,,,Unknown
+H138,,,Good,Rural
+H139,3338,16099174,New,Rural
+H140,655,3462985,Good,Urban
+H141,,,,Urban
+H142,,,,Unknown
+H143,,,Good,Unknown
+H144,,,Good,Rural
+H145,,,,Unknown
+H146,4712,15822896,Needs Repair,Urban
+H147,3977,9851029,,Unknown
+H148,2424,11787912,,Unknown
+H149,,,,Semi-Urban
+H150,,,,Urban
+H151,2529,7291107,New,
+H152,,,Good,Unknown
+H153,,,Needs Repair,
+H154,3354,22599252,Good,
+H155,,,Needs Repair,
+H156,2406,19127700,Needs Repair,Semi-Urban
+H157,754,5672342,Needs Repair,Unknown
+H158,,,New,Semi-Urban
+H159,,,,Rural
+H160,,,Good,
+H161,,,,Unknown
+H162,,,,Unknown
+H163,,,Needs Repair,Urban
+H164,,,Needs Repair,Semi-Urban
+H165,,,New,
+H166,,,Good,
+H167,1792,6306048,Good,Rural
+H168,,,Needs Repair,Semi-Urban
+H169,1027,6918899,,Rural
+H170,4408,30441648,,Rural
+H171,,,,Rural
+H172,,,Needs Repair,Urban
+H173,,,,Urban
+H174,,,,Unknown
+H175,3323,15309061,Needs Repair,Semi-Urban
+H176,2043,7021791,Needs Repair,Semi-Urban
+H177,,,,
+H178,1015,7596260,Good,Rural
+H179,2738,5626590,Good,
+H180,,,,Rural
+H181,,,Good,Urban
+H182,3458,26657722,New,Urban
+H183,2383,6460313,Good,Rural
+H184,4296,23035152,New,Rural
+H185,,,New,
+H186,3122,21579264,,Urban
+H187,,,,Unknown
+H188,,,New,Rural
+H189,,,New,Unknown
+H190,,,,Rural
+H191,,,Good,Urban
+H192,,,,Semi-Urban
+H193,1686,8603658,Good,Rural
+H194,,,New,
+H195,,,,Urban
+H196,,,,Unknown
+H197,,,New,Rural
+H198,,,Needs Repair,
+H199,939,5718510,New,Semi-Urban
+H200,,,,
+H201,,,New,Unknown
+H202,2989,23855209,,Unknown
+H203,,,Good,
+H204,541,2646572,,
+H205,,,New,Unknown
+H206,4483,10736785,Needs Repair,Rural
+H207,,,New,Unknown
+H208,,,,Rural
+H209,948,5519256,New,Unknown
+H210,,,New,Semi-Urban
+H211,,,New,Urban
+H212,,,Needs Repair,
+H213,998,5891194,New,Unknown
+H214,,,Good,Urban
+H215,1210,9510600,,Urban
+H216,2761,10190851,,Rural
+H217,,,,Urban
+H218,3221,15989044,New,Unknown
+H219,,,New,Urban
+H220,,,,Rural
+H221,,,Needs Repair,Urban
+H222,,,Good,Unknown
+H223,,,,Semi-Urban
+H224,3785,25639590,Needs Repair,Rural
+H225,,,,Semi-Urban
+H226,,,,Urban
+H227,,,,
+H228,,,Needs Repair,Semi-Urban
+H229,,,,
+H230,,,,Urban
+H231,,,,Rural
+H232,,,New,Urban
+H233,3530,24512320,Needs Repair,Urban
+H234,,,Good,Semi-Urban
+H235,3094,16320850,,
+H236,2793,18031608,New,Semi-Urban
+H237,2030,13980610,Good,Rural
+H238,2546,9825014,Needs Repair,Rural
+H239,4940,18673200,New,Semi-Urban
+H240,2186,14381694,Good,
+H241,,,Good,
+H242,,,,
+H243,,,Needs Repair,Urban
+H244,1108,8315540,Needs Repair,Urban
+H245,,,,Unknown
+H246,1536,5319168,,Semi-Urban
+H247,,,Needs Repair,Semi-Urban
+H248,4851,19350639,Needs Repair,Unknown
+H249,1851,13758483,Good,Urban
+H250,4727,24495314,Good,Urban
+H251,,,Needs Repair,Urban
+H252,4698,25092018,,Urban
+H253,,,Needs Repair,Rural
+H254,,,,Rural
+H255,,,,Urban
+H256,,,Good,Urban
+H257,,,Good,Unknown
+H258,2921,10419207,,Urban
+H259,,,Good,Rural
+H260,,,Needs Repair,Urban
+H261,,,New,Urban
+H262,3876,7876032,,
+H263,3422,18246104,,Rural
+H264,,,New,Unknown
+H265,,,Good,Semi-Urban
+H266,,,Good,Urban
+H267,,,New,
+H268,,,New,Semi-Urban
+H269,2508,6397908,Good,Unknown
+H270,,,Good,Semi-Urban
+H271,,,New,Unknown
+H272,2374,9828360,Good,Unknown
+H273,3549,16314753,,Urban
+H274,1708,8451184,,Rural
+H275,,,Good,Rural
+H276,,,Good,Urban
+H277,,,Good,Unknown
+H278,4883,28209091,New,Urban
+H279,4106,32642700,Needs Repair,Rural
+H280,,,New,Urban
+H281,3403,15531292,,Rural
+H282,2274,15911178,New,Rural
+H283,,,,Urban
+H284,2477,9355629,Needs Repair,Rural
+H285,,,Needs Repair,Urban
+H286,,,,Unknown
+H287,,,,Unknown
+H288,,,,Unknown
+H289,,,,Semi-Urban
+H290,,,Needs Repair,Rural
+H291,,,Needs Repair,Urban
+H292,,,,
+H293,828,3719376,,Urban
+H294,,,,Semi-Urban
+H295,3302,12640056,,Semi-Urban
+H296,937,2432452,New,Urban
+H297,3722,21513160,,Unknown
+H298,,,,Rural
+H299,3375,8393625,,
+H300,3181,6416077,Good,
+H301,3155,12213005,,
+H302,,,,Rural
+H303,4379,32881911,Needs Repair,Unknown
+H304,1733,9801848,Good,Rural
+H305,,,,Urban
+H306,,,,
+H307,,,New,Urban
+H308,,,,Urban
+H309,,,,
+H310,,,Good,Semi-Urban
+H311,4066,32190522,Good,Rural
+H312,2370,11421030,New,Semi-Urban
+H313,,,,Urban
+H314,4543,36012361,,Urban
+H315,,,,Urban
+H316,,,Needs Repair,Semi-Urban
+H317,2304,11932416,,
+H318,,,,Urban
+H319,,,Good,Rural
+H320,,,Good,
+H321,,,Needs Repair,Rural
+H322,4173,23151804,Good,Urban
+H323,2690,8737120,Good,Unknown
+H324,,,Good,Urban
+H325,,,Good,Rural
+H326,,,,Semi-Urban
+H327,,,,Unknown
+H328,,,Good,
+H329,2477,18205950,New,Urban
+H330,,,,Urban
+H331,,,New,Rural
+H332,,,,Semi-Urban
+H333,2208,8242464,,Semi-Urban
+H334,,,,Semi-Urban
+H335,2100,8288700,Good,Semi-Urban
+H336,4941,31167828,,Rural
+H337,,,Good,Rural
+H338,,,Good,Rural
+H339,4679,12726880,Needs Repair,Unknown
+H340,504,1172304,,
+H341,3989,21237436,Needs Repair,Semi-Urban
+H342,,,New,
+H343,,,,
+H344,,,New,Unknown
+H345,3890,22394730,Needs Repair,Urban
+H346,3492,9047772,Needs Repair,Unknown
+H347,,,,Rural
+H348,,,,Urban
+H349,4351,22033464,Needs Repair,Urban
+H350,2590,13905710,New,Semi-Urban
+H351,3163,9511141,Good,Rural
+H352,786,5937444,Needs Repair,Unknown
+H353,,,Good,Unknown
+H354,2305,13956775,Needs Repair,Urban
+H355,3307,17239391,Good,Semi-Urban
+H356,,,Needs Repair,Rural
+H357,2550,20050650,,Rural
+H358,773,2922713,New,Unknown
+H359,2342,15094190,Good,Rural
+H360,1775,3889025,Needs Repair,
+H361,,,,Semi-Urban
+H362,,,,Unknown
+H363,4772,33623512,,Semi-Urban
+H364,,,Good,Semi-Urban
+H365,,,Good,Rural
+H366,1978,6646080,,Unknown
+H367,4767,11621946,Good,Unknown
+H368,,,Good,
+H369,,,Good,Urban
+H370,1949,11140484,,
+H371,,,,Semi-Urban
+H372,,,,Unknown
+H373,,,,Unknown
+H374,,,,Rural
+H375,,,Needs Repair,Semi-Urban
+H376,2955,16725300,,Semi-Urban
+H377,,,,Urban
+H378,,,,
+H379,,,Needs Repair,Urban
+H380,4939,36410308,New,Rural
+H381,3294,9407664,,Urban
+H382,2620,19500660,Good,Urban
+H383,4757,12196948,,Semi-Urban
+H384,,,,Unknown
+H385,,,New,
+H386,4158,30806622,New,Urban
+H387,,,,Rural
+H388,,,,Urban
+H389,,,,Unknown
+H390,,,,Semi-Urban
+H391,,,Good,Urban
+H392,2875,19202125,Good,
+H393,,,New,Unknown
+H394,1898,14115426,,Unknown
+H395,4536,22058568,New,Semi-Urban
+H396,,,New,
+H397,,,,Urban
+H398,1681,4185690,New,Urban
+H399,1803,8611128,Needs Repair,Rural
+H400,,,,Unknown
+H401,,,New,Urban
+H402,3378,11461554,Needs Repair,Rural
+H403,834,5940582,Good,Semi-Urban
+H404,,,,Rural
+H405,4849,32221605,New,Unknown
+H406,624,4483440,Good,Rural
+H407,1068,3367404,Good,Urban
+H408,,,,Rural
+H409,3637,16548350,Good,Semi-Urban
+H410,3838,9180496,Needs Repair,
+H411,,,,Unknown
+H412,4854,17712246,Good,Rural
+H413,,,New,Unknown
+H414,,,Good,Semi-Urban
+H415,3185,23874760,Good,Semi-Urban
+H416,,,Good,
+H417,775,5768325,Needs Repair,
+H418,,,Good,Unknown
+H419,,,New,Urban
+H420,,,Needs Repair,Unknown
+H421,,,,Unknown
+H422,,,Good,Rural
+H423,,,Good,Rural
+H424,,,Good,Unknown
+H425,2872,18599072,,Unknown
+H426,1438,4841746,Good,Semi-Urban
+H427,,,Good,Rural
+H428,,,Good,Urban
+H429,3342,22324560,Good,Semi-Urban
+H430,3303,22886487,,Semi-Urban
+H431,,,,Rural
+H432,2501,8435873,Good,Rural
+H433,,,Good,
+H434,,,,Urban
+H435,1786,7242230,New,
+H436,3047,21639794,Good,Rural
+H437,,,Needs Repair,Rural
+H438,,,Needs Repair,Unknown
+H439,,,,Semi-Urban
+H440,571,1625637,,Urban
+H441,,,New,Unknown
+H442,,,Good,Rural
+H443,,,,Urban
+H444,,,,Urban
+H445,,,New,Urban
+H446,,,,Semi-Urban
+H447,3657,24757890,New,
+H448,762,2696718,,Unknown
+H449,4900,13073200,,Unknown
+H450,,,Good,Semi-Urban
+H451,,,Good,
+H452,,,,Urban
+H453,,,New,Rural
+H454,,,New,
+H455,,,Needs Repair,Urban
+H456,4372,12954236,,Unknown
+H457,,,,
+H458,2677,6320397,Needs Repair,Urban
+H459,2366,15733900,,Semi-Urban
+H460,4747,12408658,Good,Urban
+H461,3318,11208204,Needs Repair,Unknown
+H462,,,,
+H463,709,2465193,,Semi-Urban
+H464,,,,Unknown
+H465,,,,Urban
+H466,,,New,Urban
+H467,,,Good,Rural
+H468,2631,9524220,Needs Repair,Unknown
+H469,,,Good,Semi-Urban
+H470,,,Good,Semi-Urban
+H471,,,Good,Urban
+H472,,,,Rural
+H473,,,Needs Repair,
+H474,,,,Rural
+H475,2074,16002984,New,Urban
+H476,3298,12416970,Needs Repair,Urban
+H477,,,,Unknown
+H478,,,,Rural
+H479,,,Good,
+H480,,,New,Unknown
+H481,,,New,Urban
+H482,973,7179767,New,Semi-Urban
+H483,,,,Semi-Urban
+H484,,,Needs Repair,Urban
+H485,,,Needs Repair,Semi-Urban
+H486,4727,32767564,Needs Repair,Urban
+H487,3352,22444992,,Rural
+H488,,,,Urban
+H489,1319,9579897,,Rural
+H490,,,,Urban
+H491,,,Good,Unknown
+H492,,,Good,Unknown
+H493,1441,3968514,Needs Repair,Semi-Urban
+H494,1246,2629060,Needs Repair,Semi-Urban
+H495,655,4006635,,Urban
+H496,2807,10436426,,Unknown
+H497,,,,Unknown
+H498,,,,Rural
+H499,,,,Unknown
+H500,,,,Rural
+H501,669,1883904,Needs Repair,
+H502,,,Needs Repair,
+H503,3817,23947858,Needs Repair,Unknown
+H504,,,New,Urban
+H505,,,Good,Semi-Urban
+H506,,,,Semi-Urban
+H507,,,New,Rural
+H508,2271,5457213,Good,Unknown
+H509,,,Needs Repair,
+H510,,,,Semi-Urban
+H511,,,,Rural
+H512,,,Good,Unknown
+H513,,,Needs Repair,Unknown
+H514,,,,
+H515,,,,
+H516,3540,20514300,Good,Unknown
+H517,,,Good,Rural
+H518,,,Needs Repair,Unknown
+H519,,,Good,Semi-Urban
+H520,,,,Semi-Urban
+H521,,,Good,Semi-Urban
+H522,,,,Urban
+H523,,,Needs Repair,Rural
+H524,,,,Rural
+H525,,,Needs Repair,
+H526,,,,Rural
+H527,,,Needs Repair,Rural
+H528,2791,20000306,,Urban
+H529,3256,17800552,,Urban
+H530,,,Needs Repair,Unknown
+H531,,,,Unknown
+H532,,,Needs Repair,
+H533,,,New,Unknown
+H534,,,New,Unknown
+H535,1763,11551176,New,Unknown
+H536,,,Good,Semi-Urban
+H537,,,Needs Repair,Unknown
+H538,3899,24357053,Good,Urban
+H539,,,New,Urban
+H540,,,New,Semi-Urban
+H541,,,Good,Urban
+H542,,,Good,Rural
+H543,3336,18848400,Needs Repair,
+H544,,,Good,Rural
+H545,906,4781868,Needs Repair,Rural
+H546,748,1739100,New,
+H547,,,,Semi-Urban
+H548,,,Good,Unknown
+H549,3423,26685708,Needs Repair,Unknown
+H550,,,New,Rural
+H551,,,Needs Repair,Rural
+H552,,,Needs Repair,Semi-Urban
+H553,,,,Semi-Urban
+H554,,,Needs Repair,Urban
+H555,,,,Unknown
+H556,,,Needs Repair,Urban
+H557,,,,
+H558,,,,Rural
+H559,4946,28934100,Good,
+H560,,,,Unknown
+H561,,,New,
+H562,,,Needs Repair,Urban
+H563,4808,25294888,Good,Unknown
+H564,,,,Rural
+H565,,,Good,Semi-Urban
+H566,632,2940696,,Unknown
+H567,,,New,Unknown
+H568,3903,19959942,Needs Repair,Unknown
+H569,,,New,Urban
+H570,,,,Semi-Urban
+H571,1375,8563500,,Unknown
+H572,,,Good,Rural
+H573,,,,Rural
+H574,,,New,Rural
+H575,,,New,Rural
+H576,,,Good,
+H577,,,Needs Repair,
+H578,,,New,Urban
+H579,2996,18428396,,
+H580,,,Needs Repair,Unknown
+H581,1935,9090630,,Urban
+H582,,,,Unknown
+H583,,,,
+H584,2688,13098624,Needs Repair,Unknown
+H585,3773,24848978,New,
+H586,,,,Unknown
+H587,,,Good,Unknown
+H588,3212,21488280,,Semi-Urban
+H589,,,,Urban
+H590,726,5500902,New,
+H591,,,Good,Semi-Urban
+H592,,,,Semi-Urban
+H593,,,Good,
+H594,,,,Rural
+H595,2754,6772086,,Urban
+H596,,,New,Semi-Urban
+H597,2698,14755362,,
+H598,1543,11736058,Needs Repair,
+H599,,,Needs Repair,Rural
+H600,,,,Urban
+H601,2947,13900999,,Rural
+H602,,,New,Rural
+H603,,,New,Unknown
+H604,,,New,Urban
+H605,1139,7636995,Good,Rural
+H606,2330,12731120,New,Semi-Urban
+H607,,,,Semi-Urban
+H608,3067,15316598,Needs Repair,Semi-Urban
+H609,,,,
+H610,,,New,Rural
+H611,1597,10120189,New,Rural
+H612,,,Needs Repair,Unknown
+H613,,,,Semi-Urban
+H614,,,Good,Semi-Urban
+H615,,,New,Rural
+H616,,,Needs Repair,Rural
+H617,,,,Semi-Urban
+H618,3369,13856697,Needs Repair,
+H619,3634,24812952,Good,
+H620,,,New,Unknown
+H621,,,Needs Repair,Unknown
+H622,,,,Urban
+H623,4471,23486163,,Semi-Urban
+H624,,,Needs Repair,Urban
+H625,,,Needs Repair,Rural
+H626,3814,13718958,,Urban
+H627,,,,Unknown
+H628,2088,4873392,New,Rural
+H629,,,New,Urban
+H630,713,1816724,New,
+H631,,,New,Unknown
+H632,1553,5303495,Needs Repair,Urban
+H633,,,Good,Rural
+H634,,,,Rural
+H635,3370,14976280,Needs Repair,Unknown
+H636,,,Needs Repair,Urban
+H637,,,Needs Repair,Rural
+H638,,,Needs Repair,Unknown
+H639,,,,
+H640,2849,6521361,New,
+H641,,,Good,Unknown
+H642,2288,5967104,New,
+H643,3550,9450100,Needs Repair,Semi-Urban
+H644,,,Needs Repair,Unknown
+H645,1881,14032260,Good,Unknown
+H646,1074,8047482,New,Semi-Urban
+H647,,,New,
+H648,1305,6036930,,Semi-Urban
+H649,,,,Rural
+H650,,,,Semi-Urban
+H651,,,,Urban
+H652,3946,22358036,,
+H653,4422,32333664,Needs Repair,
+H654,820,5024960,,Unknown
+H655,,,Good,
+H656,,,,Unknown
+H657,4472,15973984,Good,
+H658,,,,Urban
+H659,,,New,
+H660,1400,6420400,,Rural
+H661,,,Needs Repair,Rural
+H662,,,New,Rural
+H663,,,New,Urban
+H664,2782,21193276,,Rural
+H665,,,New,
+H666,997,2232283,,Urban
+H667,2581,16035753,New,Unknown
+H668,,,Needs Repair,Unknown
+H669,,,Good,
+H670,3934,20539414,Good,Unknown
+H671,,,,Unknown
+H672,,,Good,Urban
+H673,,,Needs Repair,Rural
+H674,,,Needs Repair,Urban
+H675,,,Good,Semi-Urban
+H676,,,New,Urban
+H677,,,Good,Urban
+H678,,,Needs Repair,Rural
+H679,,,,Semi-Urban
+H680,2669,17169677,,Urban
+H681,4690,32844070,,Rural
+H682,3249,23152374,Needs Repair,Rural
+H683,,,,Urban
+H684,818,2951344,New,Urban
+H685,,,Needs Repair,Urban
+H686,982,2553200,Needs Repair,Urban
+H687,,,,Semi-Urban
+H688,1405,9258950,,
+H689,3088,8791536,,Rural
+H690,,,,Urban
+H691,2906,21364912,,
+H692,,,Needs Repair,Rural
+H693,3618,25922970,Needs Repair,Urban
+H694,,,New,Urban
+H695,3277,7936894,,Semi-Urban
+H696,4668,26243496,Needs Repair,
+H697,,,,Semi-Urban
+H698,,,,Rural
+H699,3611,26815286,,Unknown
+H700,4178,10114938,New,Rural
+H701,,,Needs Repair,Semi-Urban
+H702,1151,8418414,,
+H703,4594,27095412,New,Unknown
+H704,,,,Urban
+H705,,,New,Urban
+H706,1698,5423412,New,Rural
+H707,,,,Urban
+H708,,,Needs Repair,Unknown
+H709,,,Needs Repair,Urban
+H710,,,Needs Repair,Urban
+H711,,,New,Unknown
+H712,,,,Urban
+H713,703,4531538,,Semi-Urban
+H714,,,New,
+H715,,,Needs Repair,Unknown
+H716,,,New,Rural
+H717,,,New,Rural
+H718,,,,Unknown
+H719,1999,11148423,New,Urban
+H720,2786,14626500,New,Rural
+H721,,,Good,Rural
+H722,,,,Rural
+H723,,,Good,Rural
+H724,,,,Unknown
+H725,,,Needs Repair,Urban
+H726,,,,Unknown
+H727,3761,8507382,,Urban
+H728,821,4970334,,Rural
+H729,673,2875729,New,
+H730,750,4071750,New,Unknown
+H731,,,,Urban
+H732,526,1634282,Good,Semi-Urban
+H733,,,,Unknown
+H734,,,,Rural
+H735,,,,Semi-Urban
+H736,,,Good,Rural
+H737,,,Needs Repair,Unknown
+H738,,,Good,Unknown
+H739,,,,Semi-Urban
+H740,,,,
+H741,3661,18956658,Needs Repair,Unknown
+H742,,,,
+H743,,,Good,Semi-Urban
+H744,,,New,Urban
+H745,,,Needs Repair,Rural
+H746,1659,6972777,New,Semi-Urban
+H747,4877,15265010,New,
+H748,,,Needs Repair,
+H749,,,Good,Semi-Urban
+H750,,,Good,Semi-Urban
+H751,,,,Urban
+H752,2907,12668706,,
+H753,,,Good,
+H754,,,New,Urban
+H755,,,,Urban
+H756,,,,Semi-Urban
+H757,,,Needs Repair,Semi-Urban
+H758,1414,8113532,,Semi-Urban
+H759,,,,Unknown
+H760,3319,12751598,Needs Repair,
+H761,,,Needs Repair,Semi-Urban
+H762,2808,6281496,,Rural
+H763,,,Good,
+H764,4103,22927564,New,Semi-Urban
+H765,,,New,Semi-Urban
+H766,1061,2795735,New,Urban
+H767,,,,Urban
+H768,,,Needs Repair,Unknown
+H769,2313,13690647,Needs Repair,Rural
+H770,,,New,Rural
+H771,,,New,Urban
+H772,1467,8708112,,Urban
+H773,4796,35562340,Needs Repair,Rural
+H774,,,Needs Repair,Unknown
+H775,1247,4693708,,Rural
+H776,,,,Semi-Urban
+H777,854,4087244,,
+H778,,,Needs Repair,Semi-Urban
+H779,4772,30555116,Needs Repair,Semi-Urban
+H780,,,New,Unknown
+H781,3662,17471402,New,
+H782,4171,30131304,,Rural
+H783,,,Good,Semi-Urban
+H784,,,Good,Rural
+H785,4606,29929788,,Urban
+H786,,,Good,Semi-Urban
+H787,,,,Unknown
+H788,,,New,Semi-Urban
+H789,,,,Semi-Urban
+H790,,,Needs Repair,Urban
+H791,885,5303805,Good,Urban
+H792,,,Good,Semi-Urban
+H793,,,,
+H794,,,Good,Urban
+H795,,,Needs Repair,Rural
+H796,,,Good,Urban
+H797,1944,11687328,,Unknown
+H798,3562,9243390,Good,Urban
+H799,,,,Rural
+H800,,,,Unknown
+H801,,,,Semi-Urban
+H802,,,,Rural
+H803,2288,7657936,Needs Repair,Unknown
+H804,1147,3702516,Good,Unknown
+H805,,,Good,Unknown
+H806,,,,Semi-Urban
+H807,4447,13852405,,Rural
+H808,,,,Urban
+H809,,,Good,Rural
+H810,,,,Unknown
+H811,,,Good,
+H812,,,Needs Repair,Urban
+H813,,,Needs Repair,Rural
+H814,,,Good,Semi-Urban
+H815,,,Good,Rural
+H816,,,,Unknown
+H817,,,New,
+H818,,,,
+H819,,,,Unknown
+H820,,,New,Unknown
+H821,,,,Semi-Urban
+H822,4128,19125024,,Unknown
+H823,2588,5634076,Good,
+H824,,,,
+H825,,,Good,Unknown
+H826,661,3398862,Good,Rural
+H827,,,Needs Repair,Unknown
+H828,,,Good,Semi-Urban
+H829,,,Good,
+H830,,,Needs Repair,Semi-Urban
+H831,3624,24009000,Good,
+H832,,,New,Unknown
+H833,1791,11919105,New,Semi-Urban
+H834,963,2729142,New,
+H835,,,Good,Semi-Urban
+H836,,,Needs Repair,
+H837,,,New,Rural
+H838,4239,20542194,New,Rural
+H839,,,,Rural
+H840,2252,5702064,Needs Repair,Rural
+H841,519,1796778,New,Semi-Urban
+H842,,,,Rural
+H843,,,New,Unknown
+H844,4381,21151468,New,Unknown
+H845,,,Needs Repair,Rural
+H846,,,Good,
+H847,,,New,
+H848,,,New,Unknown
+H849,,,Needs Repair,Urban
+H850,4525,23068450,,Urban
+H851,1859,11334323,Good,Rural
+H852,,,New,Urban
+H853,,,,Semi-Urban
+H854,,,,Rural
+H855,,,New,Semi-Urban
+H856,,,Needs Repair,
+H857,,,Good,Rural
+H858,,,Good,Urban
+H859,,,New,Semi-Urban
+H860,2481,6649080,Good,
+H861,,,New,Semi-Urban
+H862,2894,8054002,Needs Repair,Urban
+H863,,,,Semi-Urban
+H864,660,4455000,,
+H865,,,,Rural
+H866,,,New,Urban
+H867,1662,7251306,,Semi-Urban
+H868,,,Needs Repair,Unknown
+H869,4988,19044184,,Rural
+H870,4984,27800752,Needs Repair,Urban
+H871,,,,Urban
+H872,,,New,Urban
+H873,,,Needs Repair,Unknown
+H874,2445,18154125,New,Urban
+H875,,,Good,Urban
+H876,,,Good,Urban
+H877,,,Needs Repair,Unknown
+H878,,,,Rural
+H879,,,New,Rural
+H880,,,,Rural
+H881,,,New,Rural
+H882,3260,17046540,New,Urban
+H883,,,,
+H884,2110,11858200,Needs Repair,Unknown
+H885,3989,15377595,,Rural
+H886,,,,Semi-Urban
+H887,3325,20252575,New,Urban
+H888,,,Needs Repair,
+H889,,,Needs Repair,Unknown
+H890,,,,Unknown
+H891,1940,10677760,Good,Urban
+H892,3969,24111675,Good,Semi-Urban
+H893,639,2966238,New,Unknown
+H894,,,Good,Rural
+H895,,,,
+H896,,,Good,Rural
+H897,,,New,
+H898,3883,10293833,New,
+H899,,,Needs Repair,Semi-Urban
+H900,2372,9765524,Needs Repair,Rural
+H901,,,Good,
+H902,,,,Unknown
+H903,,,,Urban
+H904,,,New,Semi-Urban
+H905,,,Needs Repair,Urban
+H906,,,,
+H907,,,,Semi-Urban
+H908,3106,13958364,Good,
+H909,,,New,Semi-Urban
+H910,,,Needs Repair,Unknown
+H911,,,Needs Repair,Unknown
+H912,4991,39658486,Needs Repair,Unknown
+H913,,,New,
+H914,,,,Urban
+H915,,,Good,Urban
+H916,,,Needs Repair,Urban
+H917,,,Good,Semi-Urban
+H918,4821,22538175,,
+H919,,,Needs Repair,Unknown
+H920,,,New,Unknown
+H921,,,New,Rural
+H922,,,Needs Repair,Urban
+H923,,,,Unknown
+H924,,,New,Rural
+H925,3240,23904720,Needs Repair,Rural
+H926,1688,10848776,New,Rural
+H927,2276,14352456,Good,
+H928,,,Needs Repair,Urban
+H929,,,,
+H930,,,,Semi-Urban
+H931,,,,
+H932,,,,Unknown
+H933,2727,20689749,Good,
+H934,,,Good,Urban
+H935,,,Needs Repair,Unknown
+H936,2972,12625056,New,Urban
+H937,,,Good,Unknown
+H938,4588,24591680,,Urban
+H939,3571,14723233,New,Rural
+H940,,,New,
+H941,,,,Semi-Urban
+H942,4277,14687218,,Urban
+H943,,,,
+H944,,,,Semi-Urban
+H945,,,New,Urban
+H946,828,5328180,New,Urban
+H947,,,New,Unknown
+H948,,,,
+H949,,,New,Unknown
+H950,4551,18768324,,Rural
+H951,,,Good,
+H952,,,,
+H953,761,2719814,Good,Rural
+H954,1688,12840616,New,Urban
+H955,,,,
+H956,,,Good,Unknown
+H957,,,,Rural
+H958,,,New,Rural
+H959,,,,Unknown
+H960,,,,Rural
+H961,654,4103196,,Unknown
+H962,,,Needs Repair,Unknown
+H963,,,Needs Repair,Rural
+H964,,,Needs Repair,Urban
+H965,3621,15403734,Needs Repair,Urban
+H966,,,New,Rural
+H967,1591,9321669,,
+H968,,,,Unknown
+H969,,,New,
+H970,4951,36662155,,Semi-Urban
+H971,,,Needs Repair,Semi-Urban
+H972,,,,Urban
+H973,,,Good,Semi-Urban
+H974,,,Good,Rural
+H975,,,,
+H976,,,Needs Repair,
+H977,,,New,Unknown
+H978,4954,32121736,,Unknown
+H979,,,Needs Repair,Urban
+H980,,,,Urban
+H981,3968,26418944,,Urban
+H982,4000,26796000,,
+H983,,,Needs Repair,Urban
+H984,,,New,Semi-Urban
+H985,1873,11142477,,
+H986,,,Needs Repair,Urban
+H987,,,,
+H988,,,,Rural
+H989,,,Good,Urban
+H990,,,New,Rural
+H991,1307,7798869,New,Urban
+H992,,,New,Rural
+H993,,,Good,Urban
+H994,,,,Semi-Urban
+H995,,,Needs Repair,Unknown
+H996,,,Needs Repair,
+H997,,,Good,Urban
+H998,,,Good,Urban
+H999,,,,Semi-Urban
+H1000,,,New,Semi-Urban
